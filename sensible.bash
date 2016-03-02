@@ -71,4 +71,5 @@ shopt -s cdable_vars
 # export projects="$HOME/projects"
 # export documents="$HOME/Documents"
 # export dropbox="$HOME/Dropbox"
+# export INPUTRC="$HOME/bin/sensible.inputrc"
 
